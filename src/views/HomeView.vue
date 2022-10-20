@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar fixed app>
+  <v-app-bar data-app fixed app>
     <v-toolbar-title>{{ $t("navbarTitle") }}</v-toolbar-title>
     <v-spacer />
     <TranslateBtn />
