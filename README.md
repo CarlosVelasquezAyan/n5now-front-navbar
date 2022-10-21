@@ -21,6 +21,6 @@ npm run lint
 ```
 ### Unit test with Jest
 ```
-npm run test:uni
+npm run test:unit
 ```
 
